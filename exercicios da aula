@@ -1,0 +1,42 @@
+trabalho 1- Algoritmos são procedimentos com uma sequência finita de ações executáveis que visam ter uma solução para um determinado tipo de problema. Inteligência artificial (IA) é a capacidade de máquinas e computadores de realizar tarefas que normalmente requerem inteligência humana, como aprender, raciocinar e resolver problemas. Isso é feito por meio de algoritmos e modelos que imitam funções cognitivas humanas. Uma nuvem em sistemas é um serviço que permite armazenar e acessar dados e aplicativos pela internet, em vez de usar o armazenamento local do seu computador. Um Banco de Dados é um sistema que armazena e organiza grandes volumes de informações de forma estruturada, permitindo fácil acesso, gerenciamento e manipulação desses dados. A Jurimetria é a aplicação de métodos estatísticos e matemáticos para analisar e prever tendências no direito e na jurisprudência. Ela usa dados para identificar padrões, ajudar na tomada de decisões legais e melhorar a eficiência dos processos jurídicos.
+
+trabalho 2- Um servidor, em computação, é um computador ou programa que fornece serviços, recursos ou dados para outros computadores, chamados de clientes, em uma rede. Ele pode hospedar sites, armazenar arquivos, gerenciar e-mails, entre outras funções. Neutralidade de rede é o princípio de que provedores de internet devem tratar todo o tráfego de dados na rede de forma igual, sem discriminar ou cobrar de forma diferenciada com base no conteúdo, origem, destino ou tipo de dados. Isso garante que todos os usuários tenham acesso igualitário a todos os sites e serviços na internet. Um sistema operacional é o software que gerencia o hardware do computador e permite que outros programas e aplicativos funcionem. Ele facilita a comunicação entre o usuário e o computador, controlando funções como armazenamento de arquivos, execução de programas e gerenciamento de dispositivos. Um sistema de arquivos é a forma como um computador organiza e armazena dados em dispositivos de armazenamento, como discos rígidos ou SSDs. Ele define como os arquivos são nomeados, armazenados, acessados e gerenciados, além de organizar pastas e diretórios. Na computação, uma variável é um espaço reservado na memória do computador para armazenar dados que podem mudar durante a execução de um programa. Cada variável tem um nome e pode conter diferentes tipos de informações, como números, texto ou objetos.
+
+trabalho 3- a- A LGPD (Lei Geral de Proteção de Dados) é uma lei brasileira que regula como os dados pessoais devem ser coletados, armazenados e protegidos. Em relação aos data centers no Brasil, a LGPD exige que esses centros de dados garantam a segurança e a privacidade das informações que armazenam e processam. Isso significa que os data centers devem implementar medidas para proteger os dados pessoais contra acessos não autorizados e vazamentos, e devem seguir regras sobre como os dados são gerenciados e compartilhados.
+
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/
+
+b- b1- exemplos de formatos EPUB( Formato de arquivo digital) ODS (Formato de planilha) ODP (Formato de apresentação)
+
+b2- Dados públicos são informações acessíveis a todos e geralmente fornecidas por instituições governamentais. Eles promovem transparência ao permitir que a população veja e compreenda as atividades do governo, ajudando a identificar erros e promover a responsabilidade.Esses dados também são importantes para pesquisa e inovação, permitindo que universidades e empresas desenvolvam novos produtos e serviços. No entanto, é crucial proteger a privacidade, evitando a exposição inadvertida de dados pessoais. Os dados devem ser apresentados de forma clara e compreensível para serem realmente úteis. Em resumo, dados públicos são essenciais para transparência e inovação, mas precisam ser geridos cuidadosamente para proteger a privacidade e garantir clareza.
+
+https://pt.wikipedia.org/wiki/Formato_aberto
+
+trabalho 4- Python é conhecida por sua sintaxe simples e é usada em várias áreas como web, ciência de dados e automação. É uma linguagem interpretada, o que significa que o código é executado diretamente, sem necessidade de compilação.
+
+Java é uma linguagem orientada a objetos usada principalmente para desenvolver aplicações grandes e robustas, incluindo aplicativos Android. O código Java é compilado em bytecode e executado na Java Virtual Machine (JVM), o que permite que funcione em diferentes sistemas operacionais.
+
+JavaScript é a principal linguagem para criar interatividade em páginas web. É executado principalmente no navegador, mas também pode ser usado no servidor com Node.js. Sua sintaxe é flexível e dinâmica, adequada para o desenvolvimento frontend e backend de aplicações web.
+
+Em resumo, Python é para uma ampla gama de aplicações, Java é ideal para sistemas grandes e móveis, e JavaScript é essencial para o desenvolvimento web.
+
+referencia= https://awari.com.br/diferenca-entre-javascript-e-python-qual-a-melhor-linguagem-para-programar-2/#:~:text=JavaScript%20%C3%A9%20uma%20linguagem%20de%20tipagem%20din%C3%A2mica%2C%20o%20que%20significa,n%C3%A3o%20podem%20ser%20alteradas%20posteriormente.
+
+a=Java= public class HelloWorld {
+public static void main(String[] args) {
+System.out.println("Hello, World!");
+}
+}
+
+Javascript= function addNumbers(a, b) {
+return a + b;
+}
+
+let result = addNumbers(5, 7);
+console.log(result); // Output: 12
+
+Python= def greet(name):
+return f"Hello, {name}!"
+
+message = greet("Alice")
+print(message) 
